@@ -22,3 +22,9 @@ if ( amount < bankBalance ) {
 else {
 	console.log("I don't have enough mula.");
 }
+
+
+// This is an example on a simple loop statement
+// ____________________
+
+
